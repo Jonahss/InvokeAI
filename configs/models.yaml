@@ -35,3 +35,10 @@ zeipher-F111-Female-Nude:
   width: 512
   height: 512
   default: false
+zeipher-F222-Female-Nude:
+  config: configs/stable-diffusion/v1-inference.yaml
+  weights: models/ldm/stable-diffusion-v1/f222.ckpt
+  description: from https://ai.zeipher.com/
+  width: 512
+  height: 512
+  default: false
